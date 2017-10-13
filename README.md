@@ -5,11 +5,11 @@
 
 NO matter what skills as a pentester one possesses, If you can’t get enough information from the Machine, It’s Over. It’s like hitting an Arrow in the dark. So, To extract as much information we need to run a dozen of commands. 
 
-# DirtyENUM : How It Works
+## DirtyENUM : How It Works
 
 **DirtyENUM** is a script that **automates the task of Primary Information Gathering on Linux Platform** that can be analyzed later on to find any vulnerabilitties in the system. It provides a wide range of information needed by Pentester to work more efficiently.
 
-# DirtyENUM : What information it extracts
+## DirtyENUM : What information it extracts
 
 1. Extracts **Kernel Information** & **Linux Version** that can be **useful to find out exploits** related to that version.
 2. Extracts **File System Information** that tells the partitions on drive, Mount points, Size, Used & Available portions.
@@ -23,9 +23,9 @@ NO matter what skills as a pentester one possesses, If you can’t get enough in
 10. Extracts **Root Processes**
 11. Enumerates **Installed Packages** & their versions that may be helpful to find out vulnerability in the system.
 
-## Disclaimer
+### Disclaimer
 
 The tool is written for educational purpose only. Don't Use this sweet piece of code for Shitty things. Though Script doesn't contains any commands that can harm the System, Use tool at your own Risk.
 
-## Thank You
+### Thank You
 Feel Free to point out bugs & Hugs. Suggesstions are Welcomed. `Happy Coding`
