@@ -25,7 +25,7 @@ NO matter what skills as a pentester one possesses, If you can’t get enough in
 
 ### Disclaimer
 
-The tool is written for educational purpose only. Don't Use this sweet piece of code for Shitty things. Though Script doesn't contains any commands that can harm the System, Use tool at your own Risk.
+The tool is written as a Summer Training Project for educational purpose only. Don't Use this sweet piece of code for Shitty things. Though Script doesn't contains any commands that can harm the System, Use tool at your own Risk.
 
 ### Thank You
 Feel Free to point out bugs & Hugs. Suggesstions are Welcomed. `Happy Coding`
